@@ -108,3 +108,4 @@ Secure authentication is implemented using JWT. Tokens are required for protecte
 Deployment Configuration:
 
 Environment variables (like DATABASE_URL and JWT_SECRET) must be correctly configured on the hosting platform to ensure seamless backend functionality.
+This is my README document
